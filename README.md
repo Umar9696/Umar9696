@@ -36,6 +36,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-umarfar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
+<h3>📄 Resume</h3>
+<p>
+  <a href="https://github.com/Umar9696/Umar9696/blob/main/Umar_Faruq_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Badge"/>
+  </a>
+</p>
 
 <hr/>
 
