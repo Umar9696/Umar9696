@@ -13,7 +13,7 @@
   <li>👨‍💻 Most of my projects are available at: <a href="https://github.com/Umar9696">github.com/Umar9696</a></li>
   <li>👯 I’m looking to collaborate on <strong>Java/Spring Boot + React projects</strong></li>
   <li>💬 Ask me about <strong>Java, Spring Boot, MySQL, HTML/CSS, or Web App Deployment</strong></li>
-  <li>📫 How to reach me: <a href="mailto:umarfaruq9696@gmail.com">umarfaruq9696@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:umarfaruq9696@gmail.com">umarfaruq9696@gmail.com</a> | <a href="https://www.linkedin.com/in/umarfar/" target="_blank">LinkedIn</a></li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
@@ -29,18 +29,12 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
-<h3>📈 GitHub Stats</h3>
+<h3>🔗 Connect with Me</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar9696&show_icons=true&theme=tokyonight" alt="Umar's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umar9696&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar9696&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p>
+  <a href="https://www.linkedin.com/in/umarfar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-umarfar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 <hr/>
