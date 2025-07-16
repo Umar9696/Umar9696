@@ -38,10 +38,11 @@
 </p>
 <h3>📄 Resume</h3>
 <p>
-  <a href="https://github.com/Umar9696/Umar9696/blob/main/Umar_Faruq_Resume.pdf" target="_blank">
+  <a href="https://github.com/Umar9696/Umar9696/raw/main/Umar-Faruq-Resume%20(2).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Badge"/>
   </a>
 </p>
+
 
 <hr/>
 
