@@ -47,5 +47,5 @@
 <hr/>
 
 <p align="center">
-  ⚡ <em>“Code. Learn. Repeat.”</em>
+  ⚡ <em>Code. Learn. Repeat.</em>
 </p>
